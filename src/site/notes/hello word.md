@@ -4,5 +4,5 @@
 
 test asdf123sadf
 
-[[test\|test]]
+[[test/test\|test]]
 
