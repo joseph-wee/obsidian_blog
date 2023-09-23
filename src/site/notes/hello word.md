@@ -3,4 +3,3 @@
 ---
 
 test
-[[second word\|second word]]
